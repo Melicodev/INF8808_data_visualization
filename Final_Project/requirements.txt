@@ -1,0 +1,8 @@
+dash==2.6.2
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+Flask_Failsafe==0.2
+more_itertools==9.1.0
+pandas
+plotly==5.11.0
+gunicorn
